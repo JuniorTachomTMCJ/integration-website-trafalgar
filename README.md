@@ -1,6 +1,6 @@
 # integration-website-trafalgar
 
-This is a solution to the [figam design](https://www.figma.com/file/EWmzcVkd7qbP5Nf7iMvuqP/Trafalgar-Landing-Page?node-id=1%3A2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [figma design](https://www.figma.com/file/EWmzcVkd7qbP5Nf7iMvuqP/Trafalgar-Landing-Page?node-id=1%3A2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
